@@ -1,0 +1,12 @@
+torch==1.12.0
+torchvision==0.13.0
+tqdm
+numpy
+tensorboardX
+scipy
+matplotlib
+scikit-learn
+glmnet_py
+python-collection
+pandas
+ml_collections
